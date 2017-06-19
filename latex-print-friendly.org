@@ -1,0 +1,4 @@
+#+LATEX_HEADER:\usepackage[utf8]{inputenc}
+#+LATEX_HEADER:\usepackage{charter}
+#+LATEX_HEADER:\linespread{2}
+#+OPTIONS: ^:nil
