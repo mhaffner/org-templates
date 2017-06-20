@@ -3,3 +3,7 @@
 #+LATEX_HEADER:\linespread{2}
 #+LATEX_HEADER: \usepackage[margin=1.0in]{geometry}
 #+OPTIONS: ^:nil toc:nil
+
+* References
+bibliographystyle:unsrt
+bibliography:~/Sync/references/references.bib
